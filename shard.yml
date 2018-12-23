@@ -1,0 +1,9 @@
+name: playing_cards
+version: 0.1.0
+
+authors:
+  - Ben Cassell ben.b.cassell@gmail.com
+
+crystal: 0.27.0
+
+license: MIT
